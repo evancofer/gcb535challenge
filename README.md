@@ -1,3 +1,1 @@
-Included in this repository is the gcb535challengedata interface, which allows users to easily use this dataset in TensorFlow projects. 
-
-Forked from https://github.com/greenelab/gcb535challenge
+This repository (Forked from [greenelab](https://github.com/greenelab/gcb535challenge)) contains the [gcb535challengedata](https://github.com/evancofer/gcb535challenge/blob/master/gcb535challengedata.py) interface, which is modelled after TensorFlow's [MNIST dataset](https://github.com/tensorflow/tensorflow/blob/a5d8217c4ed90041bea2616c14a8ddcf11ec8c03/tensorflow/examples/tutorials/mnist/input_data.py). I have also included a new example using the [Keras](http://keras.io/) deep learning library.
